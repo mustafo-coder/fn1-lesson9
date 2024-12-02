@@ -1,0 +1,10 @@
+export {default as Card1} from './card1.png'
+export {default as Card2} from './card2.png'
+export {default as Card3} from './card3.png'
+export {default as Logo} from './Logo.svg'
+export {default as Pointer1} from './pointer1.svg'
+export {default as Pointer2} from './pointer2.svg'
+export {default as Pointer3} from './pointer3.svg'
+export {default as Pointer4} from './pointer4.svg'
+export {default as HeroImage} from './hero.png'
+
