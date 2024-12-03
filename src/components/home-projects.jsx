@@ -8,7 +8,7 @@ const HomeProjects = () => {
                 <h2 className='max-sm:mb-5 max-sm:text-2xl font-bold text-4xl max-lg:text-3xl'>View our projects</h2>
                 <a href="/" className='items-center max-sm:text-sm inline-flex gap-3'>View More <i className='fa fa-arrow-right-long'></i></a>
             </div>
-            <div className='lg:flex gap-10 h-[600px] mt-20'>
+            <div className='lg:flex gap-10 lg:h-[600px] mt-20'>
                 <div className='w-full overflow-hidden relative project-item'>
                     <img className='w-full h-full object-cover' src={Card1} alt="card 1" />
                     <div className='absolute project-item__info pb-20 top-0 start-0 w-full h-full max-w-[400px] p-10 hidden flex-col justify-end text-white bg-gradient-to-t from-[#1C1E53] to-[#1c1e538e]'>
